@@ -4,10 +4,10 @@ Last Updated: 12/23/2022 <br />
 # Features that work:
   A) Lex and Yacc - Accepting more complex commands <br />
   B) Executing commands <br />
-    1) Simple command process creation and execution
-    2) File redirection
-    3) Pipes
-    4) isatty()
+      1) Simple command process creation and execution
+      2) File redirection
+      3) Pipes
+      4) isatty()
   C) Ctrl-C <br />
   D) Zombie Elimination <br />
   E) Exit <br />
